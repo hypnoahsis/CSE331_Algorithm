@@ -9,3 +9,5 @@ dataset.cpp : Code for generating test datasets
 test.cpp : Code for calculating execution time
 
 ./test_exec : Run the test
+
+output.txt : The test output
