@@ -1,0 +1,959 @@
+sorted_1000.txt
+MergeSort: 40 34 34 34 34 34 34 34 34 34
+Average: 34.60 μs ✅
+
+sorted_1000.txt
+InsertionSort: 0 0 0 0 0 0 0 0 0 0
+Average: 0.00 μs ✅
+
+sorted_1000.txt
+SelectionSort: 307 352 354 350 297 260 277 283 340 298
+Average: 311.80 μs ✅
+
+sorted_1000.txt
+QuickSort: 29 27 28 29 24 22 29 21 21 21
+Average: 25.10 μs ✅
+
+sorted_1000.txt
+HeapSort: 25 22 22 21 21 21 21 20 21 21
+Average: 21.50 μs ✅
+
+sorted_1000.txt
+BubbleSort: 0 0 0 0 0 0 0 0 0 0
+Average: 0.00 μs ✅
+
+sorted_1000.txt
+TimSort: 6 3 3 5 5 4 4 5 5 5
+Average: 4.50 μs ✅
+
+sorted_1000.txt
+CocktailShakerSort: 0 0 0 0 0 0 0 0 0 0
+Average: 0.00 μs ✅
+
+sorted_1000.txt
+CombSort: 5 5 7 6 6 7 7 6 6 4
+Average: 5.90 μs ✅
+
+sorted_1000.txt
+TournamentSort: 236 238 195 207 227 191 190 224 204 227
+Average: 213.90 μs ✅
+
+sorted_1000.txt
+IntroSort: 48 39 30 30 30 30 30 30 30 30
+Average: 32.70 μs ✅
+
+sorted_1000.txt
+LibrarySort: 51 35 32 31 30 30 30 29 29 29
+Average: 32.60 μs ✅
+
+sorted_10000.txt
+MergeSort: 480 375 379 362 373 360 451 613 588 381
+Average: 436.20 μs ✅
+
+sorted_10000.txt
+InsertionSort: 5 5 5 5 5 5 5 5 5 5
+Average: 5.00 μs ✅
+
+sorted_10000.txt
+SelectionSort: 25314 24877 23866 25410 25497 25156 23484 22570 23091 24043
+Average: 24330.80 μs ✅
+
+sorted_10000.txt
+QuickSort: 298 214 209 230 278 269 275 256 226 225
+Average: 248.00 μs ✅
+
+sorted_10000.txt
+HeapSort: 333 328 333 326 325 332 317 325 323 316
+Average: 325.80 μs ✅
+
+sorted_10000.txt
+BubbleSort: 5 5 7 5 5 6 6 6 6 6
+Average: 5.70 μs ✅
+
+sorted_10000.txt
+TimSort: 56 112 50 48 51 51 51 50 50 51
+Average: 57.00 μs ✅
+
+sorted_10000.txt
+CocktailShakerSort: 5 6 5 5 5 5 5 5 5 5
+Average: 5.10 μs ✅
+
+sorted_10000.txt
+CombSort: 78 68 68 66 69 70 68 73 66 66
+Average: 69.20 μs ✅
+
+sorted_10000.txt
+TournamentSort: 17310 16563 16378 16281 15780 16596 17863 16602 16183 15498
+Average: 16505.40 μs ✅
+
+sorted_10000.txt
+IntroSort: 438 421 456 422 445 437 427 421 426 429
+Average: 432.20 μs ✅
+
+sorted_10000.txt
+LibrarySort: 767 415 543 400 408 426 397 411 372 410
+Average: 454.90 μs ✅
+
+sorted_100000.txt
+MergeSort: 3995 4033 3843 3587 4036 3551 3981 4237 4265 4202
+Average: 3973.00 μs ✅
+
+sorted_100000.txt
+InsertionSort: 57 56 56 56 56 85 56 56 56 56
+Average: 59.00 μs ✅
+
+sorted_100000.txt
+SelectionSort: 2502033 2476662 2548991 2581161 2538290 2553883 2471016 2448928 2581946 2501072
+Average: 2520398.20 μs ✅
+
+sorted_100000.txt
+QuickSort: 2380 2630 2438 2497 2419 2500 2467 2604 2777 2397
+Average: 2510.90 μs ✅
+
+sorted_100000.txt
+HeapSort: 4407 5079 4401 4257 4590 4257 4388 4402 4528 4385
+Average: 4469.40 μs ✅
+
+sorted_100000.txt
+BubbleSort: 60 59 59 59 53 53 53 53 53 53
+Average: 55.50 μs ✅
+
+sorted_100000.txt
+TimSort: 720 695 660 637 648 642 627 622 632 647
+Average: 653.00 μs ✅
+
+sorted_100000.txt
+CocktailShakerSort: 46 47 47 47 47 47 47 47 47 46
+Average: 46.80 μs ✅
+
+sorted_100000.txt
+CombSort: 1422 1082 1023 942 942 953 1029 1023 968 945
+Average: 1032.90 μs ✅
+
+sorted_100000.txt
+TournamentSort: 1637842 1689876 1666328 1729147 1626551 1685881 1667220 1710285 1648212 1712056
+Average: 1677339.80 μs ✅
+
+sorted_100000.txt
+IntroSort: 6840 5607 5917 5988 5929 6551 6098 6329 6498 6063
+Average: 6182.00 μs ✅
+
+sorted_100000.txt
+LibrarySort: 8319 5969 4692 4508 4399 4845 4699 5095 4633 4715
+Average: 5187.40 μs ✅
+
+sorted_500000.txt
+MergeSort: 21163 21640 24967
+Average: 22590.00 μs ✅
+
+sorted_500000.txt
+InsertionSort: 345 315 297
+Average: 319.00 μs ✅
+
+sorted_500000.txt
+SelectionSort: 64417891 66794789 78719934
+Average: 69977538.00 μs ✅
+
+sorted_500000.txt
+QuickSort: 14934 13713 12846
+Average: 13831.00 μs ✅
+
+sorted_500000.txt
+HeapSort: 31137 29403 28320
+Average: 29620.00 μs ✅
+
+sorted_500000.txt
+BubbleSort: 325 291 267
+Average: 294.33 μs ✅
+
+sorted_500000.txt
+TimSort: 3998 3808 4073
+Average: 3959.67 μs ✅
+
+sorted_500000.txt
+CocktailShakerSort: 306 293 254
+Average: 284.33 μs ✅
+
+sorted_500000.txt
+CombSort: 6201 5966 5977
+Average: 6048.00 μs ✅
+
+sorted_500000.txt
+TournamentSort: 43411892 43449365 47239871
+Average: 44700376.00 μs ✅
+
+sorted_500000.txt
+IntroSort: 52621 53164 48816
+Average: 51533.67 μs ✅
+
+sorted_500000.txt
+LibrarySort: 50432 35610 35227
+Average: 40423.00 μs ✅
+
+sorted_1000000.txt
+MergeSort: 46493
+Average: 46493.00 μs ✅
+
+sorted_1000000.txt
+InsertionSort: 610
+Average: 610.00 μs ✅
+
+sorted_1000000.txt
+SelectionSort: 295410322
+Average: 295410322.00 μs ✅
+
+sorted_1000000.txt
+QuickSort: 30119
+Average: 30119.00 μs ✅
+
+sorted_1000000.txt
+HeapSort: 68750
+Average: 68750.00 μs ✅
+
+sorted_1000000.txt
+BubbleSort: 673
+Average: 673.00 μs ✅
+
+sorted_1000000.txt
+TimSort: 9656
+Average: 9656.00 μs ✅
+
+sorted_1000000.txt
+CocktailShakerSort: 660
+Average: 660.00 μs ✅
+
+sorted_1000000.txt
+CombSort: 14388
+Average: 14388.00 μs ✅
+
+sorted_1000000.txt
+TournamentSort: 176140962
+Average: 176140962.00 μs ✅
+
+sorted_1000000.txt
+IntroSort: 114051
+Average: 114051.00 μs ✅
+
+sorted_1000000.txt
+LibrarySort: 129495
+Average: 129495.00 μs ✅
+
+reverse_sorted_1000.txt
+MergeSort: 51 49 49 48 49 57 49 48 48 48
+Average: 49.60 μs ✅
+
+reverse_sorted_1000.txt
+InsertionSort: 270 262 273 281 329 262 278 272 267 275
+Average: 276.90 μs ✅
+
+reverse_sorted_1000.txt
+SelectionSort: 391 396 399 389 399 388 397 421 553 421
+Average: 415.40 μs ✅
+
+reverse_sorted_1000.txt
+QuickSort: 43 42 42 36 36 36 35 37 54 38
+Average: 39.90 μs ✅
+
+reverse_sorted_1000.txt
+HeapSort: 51 36 31 28 30 26 90 26 26 26
+Average: 37.00 μs ✅
+
+reverse_sorted_1000.txt
+BubbleSort: 493 542 493 517 500 483 476 1134 497 617
+Average: 575.20 μs ✅
+
+reverse_sorted_1000.txt
+TimSort: 52 27 26 26 26 26 27 20 24 27
+Average: 28.10 μs ✅
+
+reverse_sorted_1000.txt
+CocktailShakerSort: 519 933 327 337 326 328 337 327 328 337
+Average: 409.90 μs ✅
+
+reverse_sorted_1000.txt
+CombSort: 17 16 16 16 15 15 15 15 15 31
+Average: 17.10 μs ✅
+
+reverse_sorted_1000.txt
+TournamentSort: 266 275 265 265 265 275 276 277 289 315
+Average: 276.80 μs ✅
+
+reverse_sorted_1000.txt
+IntroSort: 48 43 39 38 37 37 40 37 36 40
+Average: 39.50 μs ✅
+
+reverse_sorted_1000.txt
+LibrarySort: 635 666 574 709 615 605 754 833 757 676
+Average: 682.40 μs ✅
+
+reverse_sorted_10000.txt
+MergeSort: 545 537 539 534 527 539 530 540 532 524
+Average: 534.70 μs ✅
+
+reverse_sorted_10000.txt
+InsertionSort: 29167 27900 27398 27299 27007 27295 27093 27073 27223 28362
+Average: 27581.70 μs ✅
+
+reverse_sorted_10000.txt
+SelectionSort: 37981 37014 35858 35204 34758 34660 36234 34722 33324 34766
+Average: 35452.10 μs ✅
+
+reverse_sorted_10000.txt
+QuickSort: 337 368 331 318 318 333 319 332 329 321
+Average: 330.60 μs ✅
+
+reverse_sorted_10000.txt
+HeapSort: 647 447 412 409 414 404 412 423 414 413
+Average: 439.50 μs ✅
+
+reverse_sorted_10000.txt
+BubbleSort: 42772 41834 41518 40467 40968 39177 38901 38167 38591 37360
+Average: 39975.50 μs ✅
+
+reverse_sorted_10000.txt
+TimSort: 151 147 152 247 153 209 150 146 159 147
+Average: 166.10 μs ✅
+
+reverse_sorted_10000.txt
+CocktailShakerSort: 27387 26483 27132 26298 28449 32368 31438 32694 30972 30830
+Average: 29405.10 μs ✅
+
+reverse_sorted_10000.txt
+CombSort: 178 173 172 171 180 170 170 169 168 170
+Average: 172.10 μs ✅
+
+reverse_sorted_10000.txt
+TournamentSort: 23680 23280 21643 21283 21082 20782 20830 20889 19828 19889
+Average: 21318.60 μs ✅
+
+reverse_sorted_10000.txt
+IntroSort: 486 493 495 479 485 481 484 476 479 472
+Average: 483.00 μs ✅
+
+reverse_sorted_10000.txt
+LibrarySort: 42182 41615 39565 40040 39568 38698 40066 39104 40847 44297
+Average: 40598.20 μs ✅
+
+reverse_sorted_100000.txt
+MergeSort: 4444 4922 4485 4441 4489 4605 4435 4486 4556 4450
+Average: 4531.30 μs ✅
+
+reverse_sorted_100000.txt
+InsertionSort: 2618329 2046320 2224131 2608266 2280284 2208211 2094280 2320590 2385678 2165166
+Average: 2295125.50 μs ✅
+
+reverse_sorted_100000.txt
+SelectionSort: 3273752 3032390 3032369 3495267 3351785 2750823 3284334 3317394 3112466 3018073
+Average: 3166865.30 μs ✅
+
+reverse_sorted_100000.txt
+QuickSort: 4059 3921 3797 3791 3948 3821 3861 3814 3843 3813
+Average: 3866.80 μs ✅
+
+reverse_sorted_100000.txt
+HeapSort: 6723 5914 5667 5744 5641 6442 6448 6214 6473 6881
+Average: 6214.70 μs ✅
+
+reverse_sorted_100000.txt
+BubbleSort: 4297912 4381329 5043887 3851724 3874950 4136803 4335638 4727471 4828248 3863470
+Average: 4334143.20 μs ✅
+
+reverse_sorted_100000.txt
+TimSort: 1492 1501 1551 1554 1735 1586 1561 2139 1522 1523
+Average: 1616.40 μs ✅
+
+reverse_sorted_100000.txt
+CocktailShakerSort: 3140085 2985641 2956624 3068451 3192148 3080248 3101120 3155902 3133962 3979812
+Average: 3179399.30 μs ✅
+
+reverse_sorted_100000.txt
+CombSort: 2422 2625 2452 2389 2417 2558 2407 2384 2442 2474
+Average: 2457.00 μs ✅
+
+reverse_sorted_100000.txt
+TournamentSort: 2335906 1879921 1732198 2083112 2024987 1811457 1741684 2188310 2105550 2066096
+Average: 1996922.10 μs ✅
+
+reverse_sorted_100000.txt
+IntroSort: 6259 5963 6085 5787 5754 6012 5756 6139 5925 5846
+Average: 5952.60 μs ✅
+
+reverse_sorted_100000.txt
+LibrarySort: 4053142 4026047 4152350 3731505 3766677 3785431 3747641 3774927 4055016 4191243
+Average: 3928397.90 μs ✅
+
+reverse_sorted_500000.txt
+MergeSort: 22978 22702 21586
+Average: 22422.00 μs ✅
+
+reverse_sorted_500000.txt
+InsertionSort: 54135876 56652772 63115383
+Average: 57968010.33 μs ✅
+
+reverse_sorted_500000.txt
+SelectionSort: 85520141 73859792 74496489
+Average: 77958807.33 μs ✅
+
+reverse_sorted_500000.txt
+QuickSort: 14889 14892 14957
+Average: 14912.67 μs ✅
+
+reverse_sorted_500000.txt
+HeapSort: 30703 31186 30146
+Average: 30678.33 μs ✅
+
+reverse_sorted_500000.txt
+BubbleSort: 97177382 93920731 109139418
+Average: 100079177.00 μs ✅
+
+reverse_sorted_500000.txt
+TimSort: 13414 12613 14294
+Average: 13440.33 μs ✅
+
+reverse_sorted_500000.txt
+CocktailShakerSort: 84998749 75590434 81005551
+Average: 80531578.00 μs ✅
+
+reverse_sorted_500000.txt
+CombSort: 13425 12585 13392
+Average: 13134.00 μs ✅
+
+reverse_sorted_500000.txt
+TournamentSort: 45696361 49516518 46621317
+Average: 47278065.33 μs ✅
+
+reverse_sorted_500000.txt
+IntroSort: 43885 43636 41852
+Average: 43124.33 μs ✅
+
+reverse_sorted_500000.txt
+LibrarySort: 111196509 114387012 589267517
+Average: 271617012.67 μs ✅
+
+reverse_sorted_1000000.txt
+MergeSort: 47374
+Average: 47374.00 μs ✅
+
+reverse_sorted_1000000.txt
+InsertionSort: 185772094
+Average: 185772094.00 μs ✅
+
+reverse_sorted_1000000.txt
+SelectionSort: 265615858
+Average: 265615858.00 μs ✅
+
+reverse_sorted_1000000.txt
+QuickSort: 31210
+Average: 31210.00 μs ✅
+
+reverse_sorted_1000000.txt
+HeapSort: 64800
+Average: 64800.00 μs ✅
+
+reverse_sorted_1000000.txt
+BubbleSort: 384591963
+Average: 384591963.00 μs ✅
+
+reverse_sorted_1000000.txt
+TimSort: 20107
+Average: 20107.00 μs ✅
+
+reverse_sorted_1000000.txt
+CocktailShakerSort: 283553887
+Average: 283553887.00 μs ✅
+
+reverse_sorted_1000000.txt
+CombSort: 21401
+Average: 21401.00 μs ✅
+
+reverse_sorted_1000000.txt
+TournamentSort: 180390510
+Average: 180390510.00 μs ✅
+
+reverse_sorted_1000000.txt
+IntroSort: 93589
+Average: 93589.00 μs ✅
+
+reverse_sorted_1000000.txt
+LibrarySort: 2043501992
+Average: 2043501992.00 μs ✅
+
+random_1000.txt
+MergeSort: 97 76 70 69 77 86 102 92 77 64
+Average: 81.00 μs ✅
+
+random_1000.txt
+InsertionSort: 149 122 122 130 121 121 121 121 121 121
+Average: 124.90 μs ✅
+
+random_1000.txt
+SelectionSort: 417 369 368 378 368 374 366 410 379 425
+Average: 385.40 μs ✅
+
+random_1000.txt
+QuickSort: 55 59 56 87 57 67 60 75 52 59
+Average: 62.70 μs ✅
+
+random_1000.txt
+HeapSort: 41 38 40 37 29 26 29 30 42 30
+Average: 34.20 μs ✅
+
+random_1000.txt
+BubbleSort: 752 690 651 614 590 587 591 648 580 585
+Average: 628.80 μs ✅
+
+random_1000.txt
+TimSort: 36 25 21 20 23 18 17 16 16 16
+Average: 20.80 μs ✅
+
+random_1000.txt
+CocktailShakerSort: 578 584 724 448 404 372 367 366 351 399
+Average: 459.30 μs ✅
+
+random_1000.txt
+CombSort: 45 39 35 32 29 29 28 28 28 28
+Average: 32.10 μs ✅
+
+random_1000.txt
+TournamentSort: 180 179 167 167 171 206 189 181 217 192
+Average: 184.90 μs ✅
+
+random_1000.txt
+IntroSort: 32 27 24 20 18 17 16 15 22 15
+Average: 20.60 μs ✅
+
+random_1000.txt
+LibrarySort: 246 210 208 207 230 201 206 201 200 216
+Average: 212.50 μs ✅
+
+random_10000.txt
+MergeSort: 1071 1017 1010 1003 1848 2622 2465 2394 2349 2374
+Average: 1815.30 μs ✅
+
+random_10000.txt
+InsertionSort: 25887 16633 15010 10051 8442 9010 9302 9331 9366 9424
+Average: 12245.60 μs ✅
+
+random_10000.txt
+SelectionSort: 25995 26070 26573 26132 26491 26473 26378 26302 26553 26450
+Average: 26341.70 μs ✅
+
+random_10000.txt
+QuickSort: 537 533 516 517 508 524 529 497 513 512
+Average: 518.60 μs ✅
+
+random_10000.txt
+HeapSort: 419 414 422 441 465 436 421 406 403 411
+Average: 423.80 μs ✅
+
+random_10000.txt
+BubbleSort: 56626 57209 57157 58574 58261 59678 61816 61137 62297 61417
+Average: 59417.20 μs ✅
+
+random_10000.txt
+TimSort: 509 483 474 471 461 465 460 475 467 471
+Average: 473.60 μs ✅
+
+random_10000.txt
+CocktailShakerSort: 61574 62407 62921 61228 62074 57255 57110 56822 56813 57375
+Average: 59557.90 μs ✅
+
+random_10000.txt
+CombSort: 607 598 589 595 592 591 584 596 589 594
+Average: 593.50 μs ✅
+
+random_10000.txt
+TournamentSort: 17863 17452 17551 17356 17417 17296 17241 17196 17350 17319
+Average: 17404.10 μs ✅
+
+random_10000.txt
+IntroSort: 487 429 399 436 399 400 376 376 380 365
+Average: 404.70 μs ✅
+
+random_10000.txt
+LibrarySort: 19584 19426 19945 19474 19425 19362 20103 19336 19477 19583
+Average: 19571.50 μs ✅
+
+random_100000.txt
+MergeSort: 10741 17815 10501 8263 8163 8492 8440 8750 8862 8622
+Average: 9864.90 μs ✅
+
+random_100000.txt
+InsertionSort: 1005836 976967 1023378 1007757 939037 996702 1036484 976497 975389 977061
+Average: 991510.80 μs ✅
+
+random_100000.txt
+SelectionSort: 2664260 2812859 2793369 2638805 2642955 2646329 2679465 2632848 2639333 2633025
+Average: 2678324.80 μs ✅
+
+random_100000.txt
+QuickSort: 6284 6150 6134 6073 6241 6100 6117 6081 6017 6333
+Average: 6153.00 μs ✅
+
+random_100000.txt
+HeapSort: 6085 6089 5968 6064 5800 5789 5844 5991 5997 5811
+Average: 5943.80 μs ✅
+
+random_100000.txt
+BubbleSort: 13465893 13179532 13251584 13566464 13341493 13805957 13501476 13319388 13373154 13422946
+Average: 13422788.70 μs ✅
+
+random_100000.txt
+TimSort: 5555 5687 5578 5560 5653 5610 5974 5559 5706 5698
+Average: 5658.00 μs ✅
+
+random_100000.txt
+CocktailShakerSort: 8755210 8672638 8408991 8458419 8579300 8432204 8579284 8917803 8630378 8628811
+Average: 8606303.80 μs ✅
+
+random_100000.txt
+CombSort: 8123 7853 7548 7506 7353 7349 7423 7371 7425 7370
+Average: 7532.10 μs ✅
+
+random_100000.txt
+TournamentSort: 1941169 1844399 1813494 1754401 1767964 1757947 1745858 1753533 1830807 1780017
+Average: 1798958.90 μs ✅
+
+random_100000.txt
+IntroSort: 5037 4955 4875 4894 4774 4773 5001 4847 4834 4988
+Average: 4897.80 μs ✅
+
+random_100000.txt
+LibrarySort: 1909307 1942058 1911399 1959093 2002432 2013098 2045387 1951459 2032884 1942558
+Average: 1970967.50 μs ✅
+
+random_500000.txt
+MergeSort: 52912 52811 52523
+Average: 52748.67 μs ✅
+
+random_500000.txt
+InsertionSort: 25915404 25452600 26328994
+Average: 25898999.33 μs ✅
+
+random_500000.txt
+SelectionSort: 70010968 147912359 687567681
+Average: 301830336.00 μs ✅
+
+random_500000.txt
+QuickSort: 36740 34871 35819
+Average: 35810.00 μs ✅
+
+random_500000.txt
+HeapSort: 63512 49087 47632
+Average: 53410.33 μs ✅
+
+random_500000.txt
+BubbleSort: 371173594 361797060 357510057
+Average: 363493570.33 μs ✅
+
+random_500000.txt
+TimSort: 43678 43044 41163
+Average: 42628.33 μs ✅
+
+random_500000.txt
+CocktailShakerSort: 6291717788 196080137 199007012
+Average: 2228934979.00 μs ✅
+
+random_500000.txt
+CombSort: 46203 46698 47254
+Average: 46718.33 μs ✅
+
+random_500000.txt
+TournamentSort: 37903814 38174016 40063118
+Average: 38713649.33 μs ✅
+
+random_500000.txt
+IntroSort: 29328 29488 28802
+Average: 29206.00 μs ✅
+
+random_500000.txt
+LibrarySort: 70089945 53388754 54352902
+Average: 59277200.33 μs ✅
+
+random_1000000.txt
+MergeSort: 126066
+Average: 126066.00 μs ✅
+
+random_1000000.txt
+InsertionSort: 101856430
+Average: 101856430.00 μs ✅
+
+random_1000000.txt
+SelectionSort: 268223729
+Average: 268223729.00 μs ✅
+
+random_1000000.txt
+QuickSort: 69312
+Average: 69312.00 μs ✅
+
+random_1000000.txt
+HeapSort: 98094
+Average: 98094.00 μs ✅
+
+random_1000000.txt
+BubbleSort: 1432279054
+Average: 1432279054.00 μs ✅
+
+random_1000000.txt
+TimSort: 74605
+Average: 74605.00 μs ✅
+
+random_1000000.txt
+CocktailShakerSort: 833117722
+Average: 833117722.00 μs ✅
+
+random_1000000.txt
+CombSort: 111012
+Average: 111012.00 μs ✅
+
+random_1000000.txt
+TournamentSort: 159018467
+Average: 159018467.00 μs ✅
+
+random_1000000.txt
+IntroSort: 56832
+Average: 56832.00 μs ✅
+
+random_1000000.txt
+LibrarySort: 206903138
+Average: 206903138.00 μs ✅
+
+partial_1000.txt
+MergeSort: 76 66 63 65 51 56 69 56 49 53
+Average: 60.40 μs ✅
+
+partial_1000.txt
+InsertionSort: 39 39 42 38 41 36 36 39 41 41
+Average: 39.20 μs ✅
+
+partial_1000.txt
+SelectionSort: 412 352 349 370 358 336 355 335 330 315
+Average: 351.20 μs ✅
+
+partial_1000.txt
+QuickSort: 36 34 34 34 34 34 39 37 38 38
+Average: 35.80 μs ✅
+
+partial_1000.txt
+HeapSort: 43 37 32 31 27 24 24 24 23 23
+Average: 28.80 μs ✅
+
+partial_1000.txt
+BubbleSort: 388 348 365 362 335 380 388 407 399 327
+Average: 369.90 μs ✅
+
+partial_1000.txt
+TimSort: 26 19 11 10 9 8 8 8 11 12
+Average: 12.20 μs ✅
+
+partial_1000.txt
+CocktailShakerSort: 241 244 222 194 180 189 188 218 192 230
+Average: 209.80 μs ✅
+
+partial_1000.txt
+CombSort: 30 29 22 20 23 19 20 17 18 17
+Average: 21.50 μs ✅
+
+partial_1000.txt
+TournamentSort: 229 318 225 224 244 277 336 270 213 215
+Average: 255.10 μs ✅
+
+partial_1000.txt
+IntroSort: 46 43 39 38 36 35 35 34 41 34
+Average: 38.10 μs ✅
+
+partial_1000.txt
+LibrarySort: 110 103 102 100 98 100 102 101 107 95
+Average: 101.80 μs ✅
+
+partial_10000.txt
+MergeSort: 787 636 640 642 804 787 919 939 876 726
+Average: 775.60 μs ✅
+
+partial_10000.txt
+InsertionSort: 3072 2958 2903 3135 2927 2935 2739 2692 2736 2725
+Average: 2882.20 μs ✅
+
+partial_10000.txt
+SelectionSort: 32036 32653 33335 31775 31496 31404 31001 30574 31314 30954
+Average: 31654.20 μs ✅
+
+partial_10000.txt
+QuickSort: 430 461 419 427 422 427 428 406 426 416
+Average: 426.20 μs ✅
+
+partial_10000.txt
+HeapSort: 461 449 463 469 449 440 496 509 494 446
+Average: 467.60 μs ✅
+
+partial_10000.txt
+BubbleSort: 32457 32059 30721 29629 29580 30108 30331 29864 30467 27903
+Average: 30311.90 μs ✅
+
+partial_10000.txt
+TimSort: 267 248 245 241 249 238 236 235 241 229
+Average: 242.90 μs ✅
+
+partial_10000.txt
+CocktailShakerSort: 16266 16300 15971 15546 15665 15750 15466 15120 14750 15901
+Average: 15673.50 μs ✅
+
+partial_10000.txt
+CombSort: 324 312 317 317 312 311 317 309 310 318
+Average: 314.70 μs ✅
+
+partial_10000.txt
+TournamentSort: 18370 18118 17686 18007 17524 17183 17065 16828 17751 16981
+Average: 17551.30 μs ✅
+
+partial_10000.txt
+IntroSort: 530 496 502 495 499 488 502 487 497 487
+Average: 498.30 μs ✅
+
+partial_10000.txt
+LibrarySort: 5226 5409 5325 5105 5123 5061 5687 5302 5221 5121
+Average: 5258.00 μs ✅
+
+partial_100000.txt
+MergeSort: 6866 6490 6283 6465 6772 7508 7856 7797 8009 8069
+Average: 7211.50 μs ✅
+
+partial_100000.txt
+InsertionSort: 268839 240601 228927 225764 222396 245074 231899 223683 219014 231032
+Average: 233722.90 μs ✅
+
+partial_100000.txt
+SelectionSort: 2600275 2536681 2428334 2542534 2504424 2469425 2478863 2575477 2504833 2495713
+Average: 2513655.90 μs ✅
+
+partial_100000.txt
+QuickSort: 4248 5104 4117 3991 3800 3726 3643 3795 3823 3727
+Average: 3997.40 μs ✅
+
+partial_100000.txt
+HeapSort: 5364 5320 4561 4676 5131 4536 4574 4918 4725 4593
+Average: 4839.80 μs ✅
+
+partial_100000.txt
+BubbleSort: 4390447 4336998 4329822 4329396 4328100 4342687 4665218 4304044 4355670 4332615
+Average: 4371499.70 μs ✅
+
+partial_100000.txt
+TimSort: 2966 3195 3167 2960 2974 2986 3250 2930 2979 3050
+Average: 3045.70 μs ✅
+
+partial_100000.txt
+CocktailShakerSort: 2450952 2658442 2458773 2646717 2645387 2660793 2669853 2468495 2429442 2450997
+Average: 2553985.10 μs ✅
+
+partial_100000.txt
+CombSort: 4134 4492 4030 3600 3497 3760 3859 3541 3488 3816
+Average: 3821.70 μs ✅
+
+partial_100000.txt
+TournamentSort: 1672573 1702088 1671883 1724542 1658158 1730420 1659778 1698583 1664732 1720232
+Average: 1690298.90 μs ✅
+
+partial_100000.txt
+IntroSort: 6468 6851 6194 6612 6682 6646 6805 6671 6945 6791
+Average: 6666.50 μs ✅
+
+partial_100000.txt
+LibrarySort: 470479 444097 455182 443886 468837 464085 481758 473209 446489 455883
+Average: 460390.50 μs ✅
+
+partial_500000.txt
+MergeSort: 36094 34219 35616
+Average: 35309.67 μs ✅
+
+partial_500000.txt
+InsertionSort: 5786365 5789436 5835439
+Average: 5803746.67 μs ✅
+
+partial_500000.txt
+SelectionSort: 62895740 62528280 63110562
+Average: 62844860.67 μs ✅
+
+partial_500000.txt
+QuickSort: 22926 23536 24027
+Average: 23496.33 μs ✅
+
+partial_500000.txt
+HeapSort: 38165 34011 32381
+Average: 34852.33 μs ✅
+
+partial_500000.txt
+BubbleSort: 115973710 116677171 119743483
+Average: 117464788.00 μs ✅
+
+partial_500000.txt
+TimSort: 17595 17962 18457
+Average: 18004.67 μs ✅
+
+partial_500000.txt
+CocktailShakerSort: 63630118 61909196 63647077
+Average: 63062130.33 μs ✅
+
+partial_500000.txt
+CombSort: 24311 30380 28816
+Average: 27835.67 μs ✅
+
+partial_500000.txt
+TournamentSort: 38403250 38270907 37407112
+Average: 38027089.67 μs ✅
+
+partial_500000.tx
+IntroSort: 57206 54735 49433
+Average: 53791.33 μs ✅
+
+partial_500000.txt
+LibrarySort: 11596151 11779882 11601545
+Average: 11659192.67 μs ✅
+
+partial_1000000.txt
+MergeSort: 94454
+Average: 94454.00 μs ✅
+
+partial_1000000.txt
+InsertionSort: 24283740
+Average: 24283740.00 μs ✅
+
+partial_1000000.txt
+SelectionSort: 258823780
+Average: 258823780.00 μs ✅
+
+partial_1000000.txt
+QuickSort: 48272
+Average: 48272.00 μs ✅
+
+partial_1000000.txt
+HeapSort: 83631
+Average: 83631.00 μs ✅
+
+partial_1000000.txt
+BubbleSort: 494481967
+Average: 494481967.00 μs ✅
+
+partial_1000000.txt
+TimSort: 57118
+Average: 57118.00 μs ✅
+
+partial_1000000.txt
+CocktailShakerSort: 258525799
+Average: 258525799.00 μs ✅
+
+partial_1000000.txt
+CombSort: 56094
+Average: 56094.00 μs ✅
+
+partial_1000000.txt
+TournamentSort: 185921026
+Average: 185921026.00 μs ✅
+
+partial_1000000.txt
+IntroSort: 159433
+Average: 159433.00 μs ✅
+
+partial_1000000.txt
+LibrarySort: 54317791
+Average: 54317791.00 μs ✅
