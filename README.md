@@ -14,4 +14,5 @@ output.txt : The test output
 
 -------------------------------------------------------------------
 20211093 노형진 Assignment2
+
 Go to Assignmen2 folder and read text.txt
