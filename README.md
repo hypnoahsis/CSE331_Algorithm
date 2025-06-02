@@ -11,3 +11,7 @@ test.cpp : Code for calculating execution time
 ./test_exec : Run the test
 
 output.txt : The test output
+
+-------------------------------------------------------------------
+20211093 노형진 Assignment2
+Go to Assignmen2 folder and read text.txt
